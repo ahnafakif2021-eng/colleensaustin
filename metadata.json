@@ -1,0 +1,6 @@
+{
+  "name": "Colleen's Kitchen",
+  "description": "Premium southern in-person and online dining experience website redesign for Colleen's Kitchen, Mueller, Austin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
